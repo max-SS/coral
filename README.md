@@ -4,7 +4,7 @@ Coral Theme is a theme for Visual Studio Code, this is inspired by the colors of
 
 
 ## Screenshot
-![](https://raw.githubusercontent.com/gerane/VSCodeThemes/master/gerane.Theme-Meteor/screenshot.png).
+![](https://raw.githubusercontent.com/max-SS/coral/develop/preview.png).
 
 
 ## More Information
