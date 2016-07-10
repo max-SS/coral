@@ -1,0 +1,28 @@
+{
+    "name": "Coral-Theme",
+    "displayName": "Coral Theme",
+    "description": "Coral Theme is a theme for Visual Studio Code, this is inspired by the colors of ocean life",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.3.0"
+    },
+    "publisher": "max-SS",
+    "categories": [
+        "Themes"
+    ],
+    "icon": "icon.png",
+    "homepage": "coming soon",
+    "repository": {
+        "type": "git",
+        "url": "coming soon"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Coral",
+                "uiTheme": "vs-dark", // use "vs" to select the light UI theme
+                "path": "./themes/Coral.tmTheme"
+            }
+        ]
+    }
+}
